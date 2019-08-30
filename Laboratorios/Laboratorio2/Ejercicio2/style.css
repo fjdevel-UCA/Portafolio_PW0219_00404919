@@ -56,15 +56,19 @@ button.btn.big {
     */
 button.black {
   background-color: #1a237e;
+  color: #ffffff;
 }
 button.green {
   background-color: #4caf50;
+  color: #ffffff;
 }
 button.sky {
   background-color: #00bcd4;
+  color: #ffffff;
 }
 button.purple {
   background-color: #673ab7;
+  color: #ffffff;
 }
 
 /*
